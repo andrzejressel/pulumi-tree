@@ -6,6 +6,7 @@
     pkgs.gnumake
     pkgs.pulumi-bin
     pkgs.pulumictl
+    pkgs.golangci-lint
   ];
 
   languages.go.enable = true;
