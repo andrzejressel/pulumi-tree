@@ -10,4 +10,4 @@ devenv.local.nix
 
 /node_modules
 /yarn.lock
-/pulumi-*
+# /pulumi-*

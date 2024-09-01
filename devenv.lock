@@ -3,11 +3,11 @@
     "devenv": {
       "locked": {
         "dir": "src/modules",
-        "lastModified": 1725057020,
+        "lastModified": 1725212813,
         "owner": "andrzejressel",
         "repo": "devenv",
-        "rev": "37e5b72ea8cdbbc18928011dbf0c7b7fcbbddb00",
-        "treeHash": "987482d6b3598599fb445c05dbc5d2dce6e50d36",
+        "rev": "bf8472d2d3d52f0b5cd0fa490fc1a7f6a7aa406d",
+        "treeHash": "3fe82848335ff13a7bce1ea039f363d61ada2901",
         "type": "github"
       },
       "original": {
